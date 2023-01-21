@@ -1,0 +1,11 @@
+[package]
+name = "tanlang"
+description = "Provides a namespace for tanlang-org crates"
+version = "0.1.0"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/gmosx/gmosx_rust"
+keywords = ["tan", "language", "programming"]
+authors = ["George Moschovitis <gmosx@reizu.org>"]
+edition = "2021"
+
+[dependencies]
